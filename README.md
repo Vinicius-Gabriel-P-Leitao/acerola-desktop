@@ -1,3 +1,20 @@
+<div align="center">
+
+> [!CAUTION]
+> ## 🚨 ESTE REPOSITÓRIO FOI MOVIDO 🚨
+>
+> **Este repositório está arquivado e não recebe mais atualizações.**
+>
+> ➡️ **O projeto foi migrado para o monorepo:**
+>
+> ### **[👉 github.com/Vinicius-Gabriel-P-Leitao/acerola-reader](https://github.com/Vinicius-Gabriel-P-Leitao/acerola-reader/)**
+>
+> Por favor, acesse o novo repositório para a versão mais recente, issues e contribuições.
+
+</div>
+
+---
+
 # acerola-desktop
 
 Cliente desktop multiplataforma do ecossistema **acerola**. Aponte para uma pasta local com `.cbz`, `.cbr` ou `.pdf` e o app organiza a biblioteca, serve para o Android na rede e, opcionalmente, traduz com IA via plugin.
